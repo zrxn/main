@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm currently in my second year in School of Information Systems at the Singapore Management University. My core focus on interest are on technology and cybersecurity. I am looking for opportunities in these area and would love to have a chat if I am what your company is looking for.  I am also keen on volunteering to help out on events that requires my skillsets. 
+about_me_description: I'm currently in my second year in School of Information Systems at the Singapore Management University. My core focus on interest are on technology and cybersecurity. I am looking for opportunities in these area and would love to have a chat if I am what your company is looking for. I am also keen on volunteering to help out on events that requires my skillsets. 
 
 # SKILLS SECTION
 # show_skills_card:
